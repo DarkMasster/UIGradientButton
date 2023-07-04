@@ -132,8 +132,8 @@ Material:
     - _DetailGradientColor0: {r: 1, g: 1, b: 0, a: 1}
     - _DetailGradientColor1: {r: 0, g: 1, b: 0, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _GradientColor0: {r: 0.99607843, g: 0.93333334, b: 0.003921569, a: 1}
-    - _GradientColor1: {r: 1, g: 0.90021354, b: 0.0039215684, a: 1}
+    - _GradientColor0: {r: 0.6037736, g: 0.24720542, b: 0.3069102, a: 1}
+    - _GradientColor1: {r: 0.7756953, g: 0.0039215684, b: 1, a: 1}
     - _MainGradientColor0: {r: 1, g: 0, b: 0, a: 1}
     - _MainGradientColor1: {r: 0, g: 0, b: 1, a: 1}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
